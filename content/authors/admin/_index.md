@@ -10,7 +10,7 @@ first_name: Liangchen
 last_name: Li
 
 # Status emoji
-status:
+status: 🧑‍💻️
   icon: 
 
 # Is this the primary user of the site?
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD. Student
+role: PhD. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
