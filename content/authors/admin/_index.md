@@ -10,8 +10,8 @@ first_name: Liangchen
 last_name: Li
 
 # Status emoji
-status: 🧑‍💻️
-  icon: 
+status: 
+  icon: 🧑‍💻️
 
 # Is this the primary user of the site?
 superuser: true
