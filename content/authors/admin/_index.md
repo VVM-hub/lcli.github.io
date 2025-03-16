@@ -57,12 +57,14 @@ education:
     date_start: 2022-09-01
     date_end: --
     summary: |
+      None
 
   - area: Information and Computational Sciences (School of Gifted Young)
     institution: University of Science and Technology of China
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
+      None
 
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -180,4 +182,4 @@ awards:
 ## About Me
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I completed my undergraduate studies at the School of Gifted Young of Science and Technology of China, earning my Bachelor's degree in 2022. Currently, I am in my third year of the Ph.D. program in Information and Computational Science, under the guidance of Prof. . My research interests focus on 3D scene reconstruction and generation, specifically including volume rendering, geometric representation, and dynamic generation. I have published papers in top academic conferences such as CVPR.
+I completed my undergraduate studies at the School of Gifted Young of Science and Technology of China, earning my Bachelor's degree in 2022. Currently, I am in my third year of the Ph.D. program in Information and Computational Science, under the guidance of Prof. <a href="http://staff.ustc.edu.cn/~juyong/">Juyong Zhang</a>. My research interests focus on 3D scene reconstruction and generation, specifically including volume rendering, geometric representation, and dynamic generation. I have published papers in top academic conferences such as CVPR.
