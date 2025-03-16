@@ -55,7 +55,7 @@ education:
   - area: Information and Computational Sciences
     institution: University of Science and Technology of China
     date_start: 2022-09-01
-    date_end: --
+    date_end: 2027-09-01
     summary: |
       None
 
