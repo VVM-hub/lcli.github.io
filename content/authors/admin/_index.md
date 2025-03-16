@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李良辰
+title: Liangchen Li
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -47,13 +47,25 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Differentiable Rendering
+  - 3D Generative Models
+  - Scene Modeling and Representing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Information and Computational Sciences
+    institution: University of Science and Technology of China
+    date_start: 2022-09-01
+    date_end: --
+    summary: |
+
+  - area: Information and Computational Sciences (School of Gifted Young)
+    institution: University of Science and Technology of China
+    date_start: 2018-09-01
+    date_end: 2022-07-01
+    summary: |
+
+  <!-- - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,28 +73,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
       GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit -->
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +179,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+I completed my undergraduate studies at the School of Gifted Young of Science and Technology of China, earning my Bachelor's degree in 2022. Currently, I am in my third year of the Ph.D. program in Information and Computational Science, under the guidance of Prof. <a href="http://staff.ustc.edu.cn/~juyong/">Juyong Zhang</a>. My research interests focus on 3D scene reconstruction and generation, specifically including volume rendering, geometric representation, and dynamic generation. I have published papers in top academic conferences such as CVPR.
