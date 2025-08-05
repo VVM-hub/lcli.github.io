@@ -24,10 +24,10 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-service
-    content:
-      title: Academic Service
-      username: admin
+  # - block: resume-service
+  #   content:
+  #     title: Academic Service
+  #     username: admin
   # - block: resume-awards
   #   content:
   #     title: Awards

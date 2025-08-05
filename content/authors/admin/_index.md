@@ -138,16 +138,16 @@ skills:
       #   description: ''
       #   percent: 80
       #   icon: camera
-service:
-  - name: English
-    description: 'description'
-    percent: 100
-  - name: Chinese
-    description: 'description'
-    percent: 75
-  - name: Portuguese
-    description: 'description'
-    percent: 25
+# service:
+#   - name: English
+#     description: 'description'
+#     percent: 100
+#   - name: Chinese
+#     description: 'description'
+#     percent: 75
+#   - name: Portuguese
+#     description: 'description'
+#     percent: 25
 
 # languages:
 #   - name: English
