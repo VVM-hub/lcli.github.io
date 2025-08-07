@@ -1,19 +1,24 @@
 ---
-title: '$L_0$-Sampler: An $L_0$ Model Guided Volume Sampling for NeRF'
+title: 'Shape from Semantics: 3D Shape Generation from Multi-View Semantics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Caoliwen Wang
+  - Yuqi Zhou
+  - Bailin Deng
   - Juyong Zhang
+
+
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '2024-03-01T00:00:00Z'
+date: '2025-05-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
