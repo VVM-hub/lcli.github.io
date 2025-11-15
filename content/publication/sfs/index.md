@@ -30,15 +30,18 @@ publishDate: '2024-06-19T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (pp. 21390-21400)
-publication_short: In CVPR 2024
+publication: Arxiv Preprint 2510.01640
+publication_short: Arxiv Preprint 2510.01640
 
-abstract: Since its proposal, Neural Radiance Fields (NeRF) has achieved great success in related tasks, mainly adopting the hierarchical volume sampling (HVS) strategy for volume rendering. However, the HVS of NeRF approximates distributions using piecewise constant functions, which provides a relatively rough estimation. Based on the observation that a well-trained weight function $w(t)$ and the $L_0$ distance between points and the surface have very high similarity, we propose $L_0$-Sampler by incorporating the $L_0$ model into $w(t)$ to guide the sampling process. Specifically, we propose using piecewise exponential functions rather than piecewise constant functions for interpolation, which can not only approximate quasi-$L_0$ weight distributions along rays quite well but can be easily implemented with a few lines of code change without additional computational burden. Stable performance improvements can be achieved by applying $L_0$-Sampler to NeRF and related tasks like 3D reconstruction. 
+abstract: Existing 3D reconstruction and generation methods utilize guidances such as 2D images, shape contours and single semantics to recover the 3D models, which limits the creative exploration of 3D modeling for art and design. In this paper, we propose a novel 3D modeling task called ``Shape from Semantics'', which aims to create 3D models whose geometry and appearance are consistent with the given text semantics when viewed from different views. The reconstructed 3D models incorporate more than one semantic elements and are easy for observers to distinguish. We adopt generative models as priors and disentangle the connection between geometry and appearance to accomplish this challenging task. Specifically, we propose Local Geometry-Aware Distillation (LGAD), a strategy that employs multi-view normal-depth diffusion priors to complete partial geometries, ensuring realistic shape generation. We also integrate view-adaptive guidance scales to enable smooth semantic transitions across views. For appearance modeling, we adopt physically based rendering to generate high-quality material properties, which are subsequently baked into fabricable meshes. Extensive experimental results demonstrate that our method can generate meshes with well-structured, intricately detailed geometries, coherent textures, and smooth transitions, resulting in visually appealing 3D shape designs.
 
 # Summary. An optional shortened abstract.
-summary: We propose $L_0$-Sampler, a NeRF sampling strategy that replaces piecewise constant functions through better approximating $L_0$-like weight distributions, achieving stable improvements in rendering and 3D reconstruction with minimal code changes.
+summary: We introduce "Shape from Semantics," a novel 3D modeling task that generates fabricable 3D shapes whose geometry and appearance are directly guided by and consistently reflect multiple text semantics across views.
 tags:
-  - Volume Rendering
+  - 3D Generation
+  - 3DGS
+  - Score Distillation Sampling
+  - Multi-view Art
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,13 +52,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/USTC3DV/L0-Sampler-code'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://ustc3dv.github.io/L0-Sampler/'
+url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=uBc1kqpXq9M'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

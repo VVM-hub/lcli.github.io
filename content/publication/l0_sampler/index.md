@@ -34,7 +34,7 @@ abstract: Since its proposal, Neural Radiance Fields (NeRF) has achieved great s
 summary: We propose $L_0$-Sampler, a NeRF sampling strategy that replaces piecewise constant functions through better approximating $L_0$-like weight distributions, achieving stable improvements in rendering and 3D reconstruction with minimal code changes.
 tags:
   - Volume Rendering
-
+  - NeRF
 # Display this page in the Featured widget?
 featured: true
 

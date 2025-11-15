@@ -37,9 +37,9 @@ abstract: Macro lens has the advantages of high resolution and large magnificati
 # Summary. An optional shortened abstract.
 summary: Our proposed method jointly optimizes deblurring and 3D reconstruction from multi-view macrophotography images through differentiable rendering, achieving both high-quality image restoration and high-fidelity 3D recovery without external supervision.
 tags:
-  - Volume Rendering
-  - 3DGS
   - Macrophotography
+  - 3DGS
+  - Volume Rendering
 
 # Display this page in the Featured widget?
 featured: true

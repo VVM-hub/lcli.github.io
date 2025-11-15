@@ -36,11 +36,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am researching in the USTC3DV Group. My research spans areas like Differentiable Rendering, 3D Reconstruction & Generation, Motion Estimation, and Digital Humans. I am driven by the goal of leveraging power of the digital world to alleviate physical and mental labor in reality. Please feel free to reach out if you are interested in my research or potential collaborations😃
     design:
       columns: '1'
   - block: collection
