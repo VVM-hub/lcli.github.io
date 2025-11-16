@@ -31,7 +31,7 @@ publication_short: In CVPR 2024
 abstract: Since its proposal, Neural Radiance Fields (NeRF) has achieved great success in related tasks, mainly adopting the hierarchical volume sampling (HVS) strategy for volume rendering. However, the HVS of NeRF approximates distributions using piecewise constant functions, which provides a relatively rough estimation. Based on the observation that a well-trained weight function $w(t)$ and the $L_0$ distance between points and the surface have very high similarity, we propose $L_0$-Sampler by incorporating the $L_0$ model into $w(t)$ to guide the sampling process. Specifically, we propose using piecewise exponential functions rather than piecewise constant functions for interpolation, which can not only approximate quasi-$L_0$ weight distributions along rays quite well but can be easily implemented with a few lines of code change without additional computational burden. Stable performance improvements can be achieved by applying $L_0$-Sampler to NeRF and related tasks like 3D reconstruction. 
 
 # Summary. An optional shortened abstract.
-summary: We propose a NeRF sampling strategy that replaces piecewise constant functions with $L_0$-like weight distributions, achieving rendering and reconstruction improvements with minimal code changes.
+summary: We propose a NeRF sampling strategy that replaces piecewise constant functions with $L_0$-like distributions, achieving rendering and reconstruction improvements with minimal code changes.
 tags:
   - Volume Rendering
   - NeRF
