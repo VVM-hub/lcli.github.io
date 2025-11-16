@@ -35,7 +35,7 @@ publication_short: In PG 2025
 abstract: Macro lens has the advantages of high resolution and large magnification, and 3D modeling of small and detailed objects can provide richer information. However, defocus blur in macrophotography is a long-standing problem that heavily hinders the clear imaging of the captured objects and high-quality 3D reconstruction of them. Traditional image deblurring methods require a large number of images and annotations, and there is currently no multi-view 3D reconstruction method for macrophotography. In this work, we propose a joint deblurring and 3D reconstruction method for macrophotography. Starting from multi-view blurry images captured, we jointly optimize the clear 3D model of the object and the defocus blur kernel of each pixel. The entire framework adopts a differentiable rendering method to self-supervise the optimization of the 3D model and the defocus blur kernel. Extensive experiments show that from a small number of multi-view images, our proposed method can not only achieve high-quality image deblurring but also recover high-fidelity 3D appearance.
 
 # Summary. An optional shortened abstract.
-summary: Our proposed method jointly optimizes deblurring and 3D reconstruction from multi-view macrophotography images through differentiable rendering, achieving both high-quality image restoration and high-fidelity 3D recovery without external supervision.
+summary: We jointly optimizes deblurring and 3D reconstruction from multi-view macrophotography images, achieving both high-quality image restoration and 3D recovery.
 tags:
   - Macrophotography
   - 3DGS
