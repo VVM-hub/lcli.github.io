@@ -32,8 +32,8 @@ publishDate: '2026-01-24T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv Preprint 2510.01640
-publication_short: Arxiv Preprint 2510.01640
+# publication: Arxiv Preprint 2510.01640
+# publication_short: Arxiv Preprint 2510.01640
 
 abstract: Generating physically plausible volumetric videos of human-object interactions (HOI) from text remains a significant challenge. While recent motion generation methods excel at producing valid skeletal dynamics, they often lack integrated rendering capabilities, creating a substantial disconnect between kinematic motion and high-quality volumetric content. Conversely, video diffusion models generate impressive visuals but frequently suffer from hallucinated physics and temporal inconsistencies due to the absence of explicit 3D structural constraints. To bridge this gap, we present HOI-VVGen, a novel framework for high-fidelity volumetric video generation that harmonizes the structural control of generative motion priors with the rich visual priors of video diffusion models. Our approach treats 4D interaction as a decoupled yet synergistic process. We first generate interaction trajectories using a generative motion backbone, which subsequently drives decoupled 3D Gaussian Splatting (3DGS) representations for humans and objects. Crucially, to enforce spatial coherence and volumetric consistency, we introduce a hybrid strategy that distills geometric priors from pre-trained video diffusion models to optimize motions. Furthermore, to address the scarcity of high-quality HOI data, we introduce a comprehensive multi-view HOI dataset alongside a robust marker-free 4D reconstruction pipeline. Experiments demonstrate that HOI-VVGen outperforms existing baselines, producing 4D volumetric sequences that seamlessly combine physical plausibility with exceptional visual detail and temporal stability.
 
